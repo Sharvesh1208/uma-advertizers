@@ -442,3 +442,25 @@ body {
     }
 }
 
+/* Footer view */
+@media only screen and (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact {
+    text-align: left;
+    text-indent: 0;
+    margin: 10px 0;
+    font-size: x-large;
+  }
+
+  .developer {
+    text-align: right;
+    text-indent: 0;
+    margin: 10px 0;
+    font-size: x-small;
+  }
+}
+
