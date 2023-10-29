@@ -452,14 +452,14 @@ body {
 
   .contact {
     text-align: left;
-    text-indent: 0;
+    text-indent: 40px;
     margin: 10px 0;
-    font-size: x-large;
+    font-size: small;
   }
 
     .contact h2{
     text-align: left;
-    text-indent: 0;
+    text-indent: 40px;
     margin: 10px 0;
     font-size: x-small;
 
@@ -468,7 +468,7 @@ body {
   .contact p:first-child{
 
     text-align: left;
-    text-indent: 0;
+    text-indent: 40px;
     margin: 10px 0;
     font-size: x-small;
 
@@ -476,8 +476,8 @@ body {
 
 .contact p:last-child{
 
-  text-align: left;
-    text-indent: 0;
+    text-align: left;
+    text-indent: 40px;
     margin: 10px 0;
     font-size: x-small;
 }
