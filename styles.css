@@ -445,6 +445,7 @@ body {
 /* Footer view */
 @media only screen and (max-width: 768px) {
   .footer {
+    width: 110%;
     flex-direction: column;
     align-items: center;
   }
