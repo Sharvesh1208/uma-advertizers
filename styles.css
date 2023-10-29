@@ -456,6 +456,31 @@ body {
     font-size: x-large;
   }
 
+    .contact h2{
+    text-align: left;
+    text-indent: 0;
+    margin: 10px 0;
+    font-size: x-small;
+
+  }
+
+  .contact p:first-child{
+
+    text-align: left;
+    text-indent: 0;
+    margin: 10px 0;
+    font-size: x-small;
+
+  }
+
+.contact p:last-child{
+
+  text-align: left;
+    text-indent: 0;
+    margin: 10px 0;
+    font-size: x-small;
+}
+
   .developer {
     text-align: right;
     text-indent: 0;
